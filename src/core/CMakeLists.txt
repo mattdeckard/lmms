@@ -78,6 +78,7 @@ set(LMMS_SRCS
 
 	core/midi/MidiAlsaRaw.cpp
 	core/midi/MidiAlsaSeq.cpp
+	core/midi/MidiAppleCore.cpp
 	core/midi/MidiClient.cpp
 	core/midi/MidiController.cpp
 	core/midi/MidiOss.cpp
